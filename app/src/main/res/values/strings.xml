@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mad Mini Project</string>
+    <string name="insert">Insert</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="name">GiftMart</string>
+    <string name="item">An Item</string>
+    <string name="code">Code</string>
+    <string name="iprice">Iprice</string>
+    <string name="idescription">Idescription</string>
+    <string name="date">date</string>
+    <string name="size">size</string>
+    <string name="quantity">quantity</string>
+    <string name="add_item">Add Item</string>
+    <string name="iname">iname</string>
+    <string name="add_to_cart">Add_To_Cart</string>
+    <string name="description">description</string>
+    <string name="price">price</string>
+    <string name="rs">rs</string>
+    <string name="zero">zero</string>
+    <string name="itemsadmin">ItemsAdmin</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+</resources>
